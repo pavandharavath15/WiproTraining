@@ -1,0 +1,6 @@
+C:\Users\PAVAN\Desktop\wipro\training\Day3\CalculationLIbrary\CalculationLIbrary\bin\Debug\CalculationLIbrary.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day3\CalculationLIbrary\CalculationLIbrary\bin\Debug\CalculationLIbrary.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day3\CalculationLIbrary\CalculationLIbrary\obj\Debug\CalculationLIbrary.csproj.AssemblyReference.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day3\CalculationLIbrary\CalculationLIbrary\obj\Debug\CalculationLIbrary.csproj.CoreCompileInputs.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day3\CalculationLIbrary\CalculationLIbrary\obj\Debug\CalculationLIbrary.dll
+C:\Users\PAVAN\Desktop\wipro\training\Day3\CalculationLIbrary\CalculationLIbrary\obj\Debug\CalculationLIbrary.pdb
